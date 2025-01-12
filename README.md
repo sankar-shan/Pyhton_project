@@ -1,2 +1,2 @@
 # LIFE_EXPECTANCY
-Thia is a Pyhton project
+This is a Pyhton project
